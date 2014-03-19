@@ -1,0 +1,52 @@
+# GmnBox | obliviousgmn.deviantart.com
+# Only Customizes Menus, OSD and Window Decorations!
+# READ this is a mod of my other theme and since I don't use window decorations the only thing I changed was the menu, if you do use window decorations you will need to tweak it yourself.
+# Palette..
+# BG:    #141314
+# Bar:   #141314
+# Text:  #839496
+
+# Menu 
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #181512
+menu.items.active.text.color: #9F7155
+menu.items.bg: flat solid
+menu.items.bg.color: #181512
+menu.items.disabled.text.color: #BEA492
+menu.items.text.color: #BEA492
+menu.overlap.x: -4
+menu.separator.color: #BEA492
+menu.title.bg: flat solid
+menu.title.*.color: #181512
+menu.border.color: #181512
+*.title.text.justify: left
+
+# OSD
+osd.bg: Solid Flat
+osd.bg.color: #141314
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #141314
+osd.label.bg: parentrelative
+osd.label.text.color: #ccc2a6
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #141314
+
+# Padding
+padding.height: 1
+padding.width: 24
+
+#Window
+border.width: 1
+window.handle.width: 0
+window.client.padding.width: 0
+window.active.title.bg: flat
+window.*.title.bg: flat
+window.*.title.bg.color: #141314
+window.*.title.separator.color: #141314
+
+#Tweaks
+window.*.label.bg: parentrelative
+window.*.button.*.bg: parentrelative
+window.*.label.text.color: #141314
+window.*.button.*.image.color: #141314
+
